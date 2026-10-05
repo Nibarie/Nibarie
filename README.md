@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou Nicolas Riello 👋
 
-<!--
-**Nibarie/Nibarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🐍 Atualmente aprendendo Python  
+💻 Buscando construir minha carreira na área de tecnologia
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou
+construindo minha base em programação.
+
+Meu principal foco no momento é Python, desenvolvendo projetos para praticar
+lógica de programação, funções, estruturas de controle, manipulação de arquivos
+e armazenamento de dados em JSON.
+
+## Atualmente estudando
+
+- Python
+- Lógica de programação
+- Manipulação de arquivos
+- JSON
+
+## Objetivo
+
+Conquistar minha primeira oportunidade na área de tecnologia e continuar
+evoluindo como desenvolvedor.
+
+---
+
+📍 Brasil
